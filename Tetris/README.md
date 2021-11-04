@@ -1,2 +1,0 @@
-# TetrisGame
-Tetris Game JS
